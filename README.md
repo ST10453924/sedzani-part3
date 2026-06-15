@@ -147,18 +147,18 @@ The application was designed with the following principles:
 The interface follows a clean dashboard-based layout that allows users to quickly access important financial information.
 
 ---
+##YOUTUBE VIDEO LINK:()
 
 ## GitHub Repository
 
-GitHub Repository:
-
-[PASTE YOUR GITHUB LINK HERE]
+GitHub Repository:  https://github.com/ST10453924/sedzani-part3
+]
 
 ---
 
 ## APK Download
 
-APK Download:
+APK Download:https://github.com/ST10453924/sedzani-part3/releases/download/apk1.0/app-debug-androidTest.apk
 
 [
 ## Installation
