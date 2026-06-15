@@ -146,8 +146,12 @@ The application was designed with the following principles:
 
 The interface follows a clean dashboard-based layout that allows users to quickly access important financial information.
 
+
+## tube video link below
 ---
-##YOUTUBE VIDEO LINK:()
+##YOUTUBE VIDEO LINK:(https://youtu.be/rMka73YQYOw?si=tm8Q5R3rUVZ3lviW)
+
+
 
 ## GitHub Repository
 
